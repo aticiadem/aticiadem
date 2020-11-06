@@ -1,5 +1,5 @@
 
-### Hi, I'm Adem 👋
+### Hi, Welcome To My Github Profile 👋 👋 👋
 
 - 🔭 I’m currently working on: Android Studio
 - 🌱 I’m currently learning: Kotlin
@@ -22,6 +22,5 @@
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="aticiadem :: Profile Stats" /></p>
-<h2 align="center">
-<img src="https://camo.githubusercontent.com/dacc217e2e00bb691de0f7c6efed864b41968a88/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6369686174646576" data-canonical-src="https://komarev.com/ghpvc/?username=aticiadem" style="max-width:100%;">
-  </p>
+
+![](https://komarev.com/ghpvc/?username=aticiadem&color=green)
