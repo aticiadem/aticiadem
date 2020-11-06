@@ -5,18 +5,6 @@
 - 🌱 I’m currently learning: Kotlin
 - 💬 Ask me about: Android Studio - Kotlin
 
-<h2 align="center">You can reach me at :alien:</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/adem-atici-0706b719a/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Adem Atici's LinkedIn Profile" height="30" width="30">
-  </a>
-  <a href="https://www.instagram.com/adematiciii/">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="30" width="30">
-  </a>
-</p>
-
-
 <h2 align="center">Github stats :bar_chart:</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="aticiadem :: Profile Stats" />
