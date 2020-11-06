@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning: Kotlin
 - 💬 Ask me about: Android Studio - Kotlin
 
-
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
@@ -20,7 +19,6 @@
 <h2 align="center">Github stats :bar_chart:</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aticiadem&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="aticiadem :: Profile Stats" /></p>
 
-![](https://komarev.com/ghpvc/?username=aticiadem&color=green)
+<p align="center"><img src="https://komarev.com/ghpvc/?username=aticiadem&color=green" alt="aticiadem :: Profile Stats" /></p>
