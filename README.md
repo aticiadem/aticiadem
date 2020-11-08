@@ -1,9 +1,9 @@
 
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 
-- 🔭 I’m currently working on: Android Studio
-- 🌱 I’m currently learning: Kotlin
-- 💬 Ask me about: Android Studio - Kotlin
+- 🔭 I’m currently working on: AndroidStudio-Kotlin
+- 🌱 I’m currently learning: Kotlin, HTML-CSS, Swift
+- 💬 Ask me about: Android Studio-Kotlin
 
 
 <p align="center">
