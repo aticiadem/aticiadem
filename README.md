@@ -2,7 +2,7 @@
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 
 - 🔭 I’m currently working on: AndroidStudio-Kotlin
-- 🌱 I’m currently learning: Kotlin, HTML-CSS, Swift
+- 🌱 I’m currently learning: Kotlin, Swift
 - 💬 Ask me about: Android Studio-Kotlin
 
 
