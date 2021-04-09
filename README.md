@@ -1,7 +1,8 @@
 
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 
-- 🔭 I’m currently working on: Android-Kotlin
+- 🔭 I’m currently working on: Android and iOS Programming
+- 🌱 I’m currently learning Swift, Kotlin
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=aticiadem&color=green" alt="aticiadem :: Profile Stats"></a>
