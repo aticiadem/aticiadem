@@ -1,8 +1,7 @@
 
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 
-- 🔭 I’m currently working on: Android Programming
-- 🌱 I’m currently learning Kotlin
+I'm Adem, im working on Android application developing. I am sharing my projects in here. I usually using Kotlin programming language for Android projects. 
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=aticiadem&color=green" alt="aticiadem :: Profile Stats"></a>
