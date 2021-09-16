@@ -17,6 +17,7 @@ I'm Adem, im working on Android application developing. I am sharing my projects
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aticiadem&show_icons=true&theme=synthwave" alt="aticiadem :: Profile Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aticiadem&langs_count=10&theme=tokyonight&layout=compact" alt="aticiadem :: Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aticiadem&show_icons=true&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aticiadem&layout=compact&theme=tokyonight" height="180">
+  
 </p>
